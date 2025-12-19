@@ -1,74 +1,52 @@
-## Hi there, I'm Kaan ARA! 👋
+👋 Hi, I'm Kaan ARA
 
-I am a **Senior Azure Cloud Architect** based in **Berlin**. With over **18 years of experience** in IT infrastructure, I specialize in designing resilient cloud solutions, advocating for **FinOps**, and implementing **Infrastructure as Code (IaC)**.
+Senior Azure Cloud Architect based in Berlin, Germany.
 
----
+With over 18 years of experience in IT infrastructure, I specialize in designing resilient cloud solutions, advocating for FinOps, and implementing Infrastructure as Code (IaC). I am a firm believer in the power of Dyslexic Thinking to drive creative problem-solving and innovation in the tech space.
 
-### 🚀 Professional Summary
+🚀 Professional Focus
 
-* 
-**Current Role:** Senior Cloud Architect at **diconium**, working on the Volkswagen Group Vehicle Data Analytics Project.
+Currently: Senior Cloud Architect at diconium, working on the Volkswagen Group - Vehicle Data Analytics Project.
 
+Expertise: Architecture Design, Kubernetes (AKS/GKE/Rancher), and Large-scale Data Pipelines (Kafka, Spark, Databricks).
 
-* 
-**Expertise:** Designing robust cloud infrastructures, managing large-scale data pipelines (Kafka, Spark, Databricks), and automating environments with Terraform.
+Cloud Strategy: Specialist in FinOps practices, cost optimization, and multi-cloud management (Azure, AWS, GKE).
 
+Automation: Driving efficiency through IaC (Terraform, Ansible) and CI/CD workflows.
 
-* 
-**Background:** Previously held senior roles at **Ford Otosan** and **Setur**, where I led major migrations to Office 365 and architected disaster recovery systems.
+🛠 Tech Stack
 
+Cloud: Microsoft Azure (Certified Administrator & Security Engineer), AWS, Google Cloud.
 
-* 
-**Unique Perspective:** I leverage **Dyslexic Thinking** to bring creative problem-solving and analytical skills to technical challenges.
+Platforms: Kubernetes, Docker, VMware, Hyper-V, Office 365.
 
+Security: Palo Alto Firewalls, Azure Security Technologies, PCI Standards.
 
+Data & AI: Azure OpenAI (FoGPT), Kafka, Spark, Databricks, MS SQL, PostgreSQL.
 
-### 🛠 Tech Stack & Skills
+📜 Certifications
 
-* 
-**Cloud:** Microsoft Azure (Certified Administrator & Security Engineer), AWS, Google Kubernetes Engine (GKE).
+AZ-500: Microsoft Azure Security Technologies
 
+AZ-103: Microsoft Azure Administrator
 
-* 
-**Infrastructure:** Kubernetes, Terraform, Ansible, Docker, VMware, Hyper-V.
+🌍 Languages
 
+Turkish: Native 🇹🇷
 
-* 
-**Data & AI:** Kafka, Spark, Databricks, Azure OpenAI (ChatGPT/FoGPT).
+English: Full Professional 🇬🇧
 
+Russian: Limited Working 🇷🇺
 
-* 
-**Core Skills:** FinOps, Architecture Design, Office 365 Management, Network Security (Palo Alto).
+Azerbaijani: Elementary 🇦🇿
 
+🔗 Connect with Me
 
+LinkedIn 
+https://www.linkedin.com/in/kaanara/
 
-### 🌐 Languages
+Medium Blog 
+https://medium.com/@kaanara
 
-* 
-**Turkish:** Native.
-
-
-* 
-**English:** Full Professional.
-
-
-* 
-**Russian & Azerbaijani:** Limited/Elementary.
-
-
-
-### 🔗 Connect with Me
-
-* 
-[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/kaanara) 
-
-
-* 
-[Medium Blog](https://medium.com/@kaanara) 
-
-
-* [Instagram](https://www.google.com/search?q=https://www.instagram.com/kaanara)
-
----
-
-Would you like me to add a section for your specific GitHub statistics or a list of your featured open-source projects?
+Instagram
+https://www.instagram.com/kaan_ara_/
